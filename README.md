@@ -1,4 +1,4 @@
-# JBDL8 E-Wallet — Microservices Backend
+# E-Wallet — Microservices Backend
 
 A production-style digital wallet backend built with Spring Boot microservices. A user registers with OTP verification, gets a wallet automatically, and can transfer money to other users — all while every service communicates asynchronously through Apache Kafka. Redis handles ephemeral state. MySQL persists everything that matters.
 
